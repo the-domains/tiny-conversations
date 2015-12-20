@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tiny Conversations]]></title>
         <description><![CDATA[Tiny Conversations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tiny-conversations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 04:51:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 05:18:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tiny-conversations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Episode 23 – Stef Teitelman and Mike Smith on Making Meaningful Connections]]></title>
+            <description><![CDATA[<article><h1>Episode 23 – Stef Teitelman and Mike Smith on Making Meaningful Connections</h1><p>On this episode of Tiny Conversations I talk to Stefanie Teitelman and Mike Smith about their social event “Fresh Summer Fiesta” and making meaningful connections. Stef and Mike started Fresh Summer Fiesta as a way to help people, they describe, as “consciously living” re-connect with themselves, other like-minded individuals, and their surroundings.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5f9f03-51fe-4caa-8dfe-4577dcbbef7f.jpg"></article>]]></description>
+            <link>http://tinyconversations.com/episode-23/</link>
+            <guid isPermaLink="false">f91b6a9d-de83-4794-ac01-e73c3a17ffff</guid>
+            <pubDate>Sun, 20 Dec 2015 05:18:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Episode 24 - Building a Tiny Home with The Hobohemians]]></title>
             <description><![CDATA[<article><h1>Episode 24 - Building a Tiny Home with The Hobohemians</h1><p>http://briancauley.ca/wp-content/uploads/2015/12/Episode-24-Tiny-Conversations-Hobohemians.mp3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b843ffbb361b30962e64647d56d124042ba07192.jpg"></article>]]></description>
-            <link>undefinedepisode-24-building-a-tiny-home-with-the-hobohemians/index.html</link>
+            <link>https://thegrid.ai/tiny-conversations/episode-24-building-a-tiny-home-with-the-hobohemians/index.html</link>
             <guid isPermaLink="false">e0645bc2-6337-4d1b-9a1b-c6ae514149ff</guid>
             <pubDate>Sun, 20 Dec 2015 04:50:56 GMT</pubDate>
         </item>
