@@ -1,7 +1,7 @@
 name: Tiny Conversations
 favicon: null
 layout_spectrum: 0.7662494513206184
-typography_spectrum: 0.4553875611163676
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.43270054343156517
+  brandStrength: 1
   lightness: 0.7349691849667579
   saturation: 0.9503299971111119
   rhythmicContrast: 0.35445340047590435
