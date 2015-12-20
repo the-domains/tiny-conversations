@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-20T04:50:56.214Z'
-dateModified: '2015-12-20T04:50:39.473Z'
+description: "How small of a space can you live in? On this episode Host Brian Cauley talks with the builders and future inhabitants of a 8' x 20' tiny home."
+datePublished: '2015-12-20T06:37:29.889Z'
+dateModified: '2015-12-20T06:37:09.659Z'
 title: Episode 24 - Building a Tiny Home with The Hobohemians
 author: []
+sourcePath: _posts/2015-12-20-episode-24-building-a-tiny-home-with-the-hobohemians.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-episode-24-building-a-tiny-home-with-the-hobohemians.md
-published: true
 url: episode-24-building-a-tiny-home-with-the-hobohemians/index.html
 _type: Article
 
