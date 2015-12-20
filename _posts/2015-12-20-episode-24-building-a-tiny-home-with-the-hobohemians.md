@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "How small of a space can you live in? On this episode Host Brian Cauley talks with the builders and future inhabitants of a 8' x 20' tiny home."
-datePublished: '2015-12-20T06:37:29.889Z'
-dateModified: '2015-12-20T06:37:09.659Z'
+datePublished: '2015-12-20T06:44:10.512Z'
+dateModified: '2015-12-20T06:44:08.020Z'
 title: Episode 24 - Building a Tiny Home with The Hobohemians
 author: []
 sourcePath: _posts/2015-12-20-episode-24-building-a-tiny-home-with-the-hobohemians.md
@@ -24,8 +24,6 @@ _type: Article
 ---
 # Episode 24 - Building a Tiny Home with The Hobohemians
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaf62d8f-c21d-4140-a980-8975d955af92.jpg)
-
-http://briancauley.ca/wp-content/uploads/2015/12/Episode-24-Tiny-Conversations-Hobohemians.mp3
 
 **Kat Walters** and **Matthew Davey** about their project to build a tiny home. The two call themselves [the Hobohemians][0] and they are building a 8′ x 20′ house on a flatbed trailer.
 
