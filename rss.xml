@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tiny Conversations]]></title>
+        <description><![CDATA[Tiny Conversations]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 04:51:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Episode 24 - Building a Tiny Home with The Hobohemians]]></title>
+            <description><![CDATA[<article><h1>Episode 24 - Building a Tiny Home with The Hobohemians</h1><p>http://briancauley.ca/wp-content/uploads/2015/12/Episode-24-Tiny-Conversations-Hobohemians.mp3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b843ffbb361b30962e64647d56d124042ba07192.jpg"></article>]]></description>
+            <link>undefinedepisode-24-building-a-tiny-home-with-the-hobohemians/index.html</link>
+            <guid isPermaLink="false">e0645bc2-6337-4d1b-9a1b-c6ae514149ff</guid>
+            <pubDate>Sun, 20 Dec 2015 04:50:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
