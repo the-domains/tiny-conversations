@@ -2,6 +2,7 @@ name: Tiny Conversations
 favicon: null
 layout_spectrum: 0.49123
 typography_spectrum: 1
+title: Tiny Conversations
 cta:
   domain: null
   bucket: null
