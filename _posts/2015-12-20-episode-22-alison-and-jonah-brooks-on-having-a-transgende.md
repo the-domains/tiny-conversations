@@ -15,9 +15,9 @@ keywords:
   - episode-22-tiny-conversations-full
   - wp-content
   - stitcher
-description: A conversation with a Mother in Son about their parent and partner coming out as transgender and what that meant for them.
-datePublished: '2015-12-20T06:37:19.422Z'
-dateModified: '2015-12-20T06:36:43.831Z'
+description: ''
+datePublished: '2016-01-01T00:19:29.167Z'
+dateModified: '2016-01-01T00:19:14.701Z'
 author:
   - name: brian
     url: 'http://tinyconversations.com/author/brian/'
