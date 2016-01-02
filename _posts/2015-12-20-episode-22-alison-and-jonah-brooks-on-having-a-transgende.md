@@ -16,8 +16,8 @@ keywords:
   - wp-content
   - stitcher
 description: ''
-datePublished: '2016-01-01T00:19:29.167Z'
-dateModified: '2016-01-01T00:19:14.701Z'
+datePublished: '2016-01-02T19:05:15.162Z'
+dateModified: '2016-01-02T19:04:34.849Z'
 author:
   - name: brian
     url: 'http://tinyconversations.com/author/brian/'
@@ -40,7 +40,7 @@ _type: MediaObject
 ---
 # Episode  22 -- Alison and Jonah Brooks on Having a Transgender Partner and Parent
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea6ff0aa1fcf849bee56b82548b6605f5600843.jpg" /></article>
+<article style=""><h1>Episode 22 - Alison and Jonah Brooks on Having a Transgender Partner and Parent - Tiny Conversations</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/019630a95cac72a7b254aa8f2e2e885378119f1f.jpg" /></article>
 
 On this episode of Tiny Conversations I talk to **Jonah **and **Alison Brooks **about having a transgender parent and partner. I wasn't until Dee and Alison were married, and Jonah was born, that **Dee **realized she was transgender and came out to both **Alison **and **Jonah**.
 
